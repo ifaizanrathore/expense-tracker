@@ -1,5 +1,7 @@
 # 💸 Expense Tracker
 
+[![CI](https://github.com/ifaizanrathore/expense-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/ifaizanrathore/expense-tracker/actions/workflows/ci.yml)
+
 A fast, private expense tracker that runs entirely in your browser. Log what you spend, set a monthly budget, see where the money goes by category, and export any month to CSV.
 
 **Live demo:** https://ifaizanrathore.github.io/expense-tracker/
